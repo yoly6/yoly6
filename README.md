@@ -3,7 +3,7 @@
 
 - 💬 Pregúntame sobre **html,css,javaScript,angular ,reactjs**
 
-- 📫 Cómo contactarme **yolandaperez1997@hotmai.com**
+- 📫 Cómo contactarme **yolandaperez1997@hotmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
